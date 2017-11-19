@@ -30,7 +30,8 @@ li {
 
 p {
   text-align: center;
-  font-size: 18px;
+  font-size: 23px;
+  margin-bottom: -22px;
 }
 
 #hours {
@@ -56,6 +57,7 @@ grid
 .col-1-2 {
   width: 48%;
   display: inline-block;
+  vertical-align: top;
 }
 
 /*
