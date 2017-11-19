@@ -2,7 +2,7 @@
 main styles
 */
 
-h1 {
+h1, h4 {
   text-align: center;
 }
 
@@ -25,13 +25,9 @@ grid and containers
   background-color: #b7eafb;
 }
 
-.col-2-3 {
-  width: 50%;
+.col-1-2 {
+  width: 49%;
   display: inline-block;
-}
-
-.center {
-  align-items: center;
 }
 
 /*
