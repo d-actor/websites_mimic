@@ -25,6 +25,12 @@ grid and containers
   background-color: #b7eafb;
 }
 
+#col-13 {
+  width: 33.1%;
+  display: inline-block;
+  margin-top: 40px;
+}
+
 .col-1-2 {
   width: 49%;
   display: inline-block;
@@ -51,4 +57,31 @@ th, td {
 
 .lastcol {
   width: 16.6%;
+}
+
+/*
+shapes
+*/
+
+.rabbit {
+  border: 3px solid blue;
+  width: 200px;
+  margin-left: 70px;
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+	background: purple;
+  border: 2px solid black;
+  margin-left: 70px;
+}
+
+.circle {
+	width: 200px;
+	height: 200px;
+	background: green;
+	border-radius: 50%;
+  border: 2px solid black;
+  margin-left: 40px
 }
